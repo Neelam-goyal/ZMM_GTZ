@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZSRV_PURORD'
+define service ZSRV_PURORD {
+  expose ZPURCHASE_ORD;
+}

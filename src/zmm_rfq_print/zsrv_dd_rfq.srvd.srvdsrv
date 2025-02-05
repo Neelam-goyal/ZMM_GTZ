@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition of RQFQ'
+define service Zsrv_dd_rfq {
+  expose zdd_rfq;
+}
